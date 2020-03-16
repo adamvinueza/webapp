@@ -14,4 +14,4 @@ routing, or error handling.
 
 The application has two endpoints: one at the root (`/`) that just returns "Hello,
 World!" as text, another at `/sample` that returns a JSON object with a message
-property whose value is "hello, JSON!".
+property whose value is "Hello, this is JSON!".
